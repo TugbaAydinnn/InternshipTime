@@ -1,6 +1,7 @@
 # InternshipTime
 Öğrencilerin stajlarını yapabilecekleri uygun firmayı bulmasını sağlayan, firmaların da isterlerine uygun stajyer öğrenci bulmalarını sağlan bir web sitesidir.
-# Eclipse ile Staj Web Sitesi
+
+
 
 ![image](https://user-images.githubusercontent.com/53115743/122914753-a6e23e00-d363-11eb-84d3-ebaeda02a01f.png)
 
